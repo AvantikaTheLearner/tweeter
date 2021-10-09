@@ -96,6 +96,7 @@ $(document).ready(() => {
       $.post("/tweets", serializedData, (response) => {
         loadTweets();
         $("#tweet-text").val('');
+        $('.counter').text(140);
       });
     }
   });
