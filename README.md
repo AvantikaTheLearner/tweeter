@@ -16,8 +16,8 @@ Tweeter is a simple single-page Ajax-based Twitter clone that uses HTML5, CSS3, 
 
 ## Final Product
 
-!["Screenshot of Creating new URL"](https://github.com/AvantikaTheLearner/tinyapp/blob/master/docs/createNewUrl-page.png?raw=true)
+!["Screenshot of Creating new Tweet"](https://github.com/AvantikaTheLearner/tweeter/blob/master/docs/Creating-new-tweet.png?raw=true)
 
-!["Screenshot of Login Page"](https://github.com/AvantikaTheLearner/tinyapp/blob/master/docs/login-page.png?raw=true)
+!["Screenshot of Validation Error"](https://github.com/AvantikaTheLearner/tweeter/blob/master/docs/Validation-error.png?raw=true)
 
-!["Screenshot of URL's Page for a specific user"](https://github.com/AvantikaTheLearner/tinyapp/blob/master/docs/urls-page.png?raw=true)
+!["Screenshot of hovering over any tweet"](https://github.com/AvantikaTheLearner/tweeter/blob/master/docs/hovering-over-tweet.png?raw=true)
