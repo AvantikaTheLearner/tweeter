@@ -1,0 +1,41 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 120px;
+  width: 100%;
+  background-color: #4056A1;
+  color: #FFFFFF;
+  position: fixed;
+  top: 0;
+}
+
+nav span {
+  margin-left : 1.5em;
+  font-family: 'Bungee', sans-serif;
+}
+
+.writeNewTweet {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 1.5em;
+}
+
+.fa-angle-double-down {
+  color: red;
+  animation: updown 2s infinite; /* to move arrow up down infinite times */
+}
+@keyframes updown {
+  0% {
+    transform: translateY(-100%);
+  }
+
+  50% {
+    transform: translateY(-10px);
+  }
+
+  100% {
+    transform: translateY(-100%);
+  }
+}

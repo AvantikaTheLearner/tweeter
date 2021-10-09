@@ -1,8 +1,6 @@
 # Tweeter Project
 
-Tweeter is a simple, single-page Twitter clone.
-
-This repository is the starter code for the project: Students will fork and clone this repository, then build upon it to practice their HTML, CSS, JS, jQuery and AJAX front-end skills, and their Node, Express and MongoDB back-end skills.
+Tweeter is a simple single-page Ajax-based Twitter clone that uses HTML5, CSS3, JS, jQuery and AJAX front-end skills, and Node, Express and MongoDB back-end skills.
 
 ## Getting Started
 
@@ -15,3 +13,11 @@ This repository is the starter code for the project: Students will fork and clon
 
 - Express
 - Node 5.10.x or above
+
+## Final Product
+
+!["Screenshot of Creating new URL"](https://github.com/AvantikaTheLearner/tinyapp/blob/master/docs/createNewUrl-page.png?raw=true)
+
+!["Screenshot of Login Page"](https://github.com/AvantikaTheLearner/tinyapp/blob/master/docs/login-page.png?raw=true)
+
+!["Screenshot of URL's Page for a specific user"](https://github.com/AvantikaTheLearner/tinyapp/blob/master/docs/urls-page.png?raw=true)

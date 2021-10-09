@@ -1,0 +1,65 @@
+.all-tweets {
+  display: flex;
+  flex-direction: column;
+  border: 5px solid grey;
+  margin-top: 25px;
+  width: 800px;
+}
+
+/*This class is being used when we hover over any tweet */
+.all-tweets:hover {
+  box-shadow: 5px 5px 5px 5px lawngreen;
+}
+
+.tweetHeader {
+  display: flex;
+  flex-direction: row;
+  margin: 5px 15px;
+  justify-content: space-between;
+}
+
+.handleName {
+  display: flex;
+  align-items: center;
+}
+
+.imageClass {
+  display: flex;
+}
+
+.tweetContent {
+  margin: 0px 15px;
+  border-bottom: solid grey 3px;
+  overflow-wrap: break-word;
+}
+
+.tweetFooter {
+  display: flex;
+  margin: 10px 15px;
+  justify-content: space-between;
+}
+
+.iconsClass {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  color: #4056A1; 
+}
+
+/*The below classes are being used when we hover over the icons */
+.fa-flag:hover {
+  color: burlywood;
+}
+.fa-retweet:hover {
+  color: burlywood;
+}
+.fa-heart:hover {
+  color: burlywood;
+}
+
+/*Desktop styles */
+@media only screen and (min-width: 1024px) {
+  .all-tweets {
+    width: 725px;
+  }
+}
